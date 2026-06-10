@@ -1,210 +1,208 @@
+<!-- Animated Header -->
+
 <div align="center">
 
-<!-- Glitch animation header - much more unique than standard typing SVG -->
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Priyanshi+Vani;Python+Developer;BCA+%40+Medicaps+University;Building+Real-World+Solutions&animation=glitch&color=A855F7&font=Fira+Code&size=28&weight=700&width=800&height=60&duration=2800&pause=1200" alt="Glitch Header"/>
-
-<br/>
-
-<!-- Capsule render with venom/soft_ui type for a more modern look -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,30&height=140&text=Junior%20Python%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Indore%2C%20India%20%7C%20Open%20to%20Opportunities&descSize=14&descAlignY=85" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3000\&pause=1000\&color=C770F0\&center=true\&vCenter=true\&width=900\&lines=Hi+👋+I'm+Priyanshi+Vani;Aspiring+Python+Developer+💻;BCA+Student+at+Medicaps+University;Passionate+About+Software+Development+🚀;Always+Learning+New+Technologies+✨)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ cat about_me.py`
+<img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2N2h0OW93bHd6dndkZnhuZmQ1cG8xY3h5ZXQ5eHRrNnBjM2QwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+# 🌸 About Me
+
+💜 Hello! I'm **Priyanshi Vani**
+
+🎓 Bachelor of Computer Applications (BCA) Student
+
+💻 Aspiring Python Developer
+
+📍 Madhya Pradesh, India
+
+🌱 Currently learning:
+
+* Data Structures & Algorithms
+* Software Engineering
+* Database Management Systems
+* Advanced Python
+
+🚀 Interested in:
+
+* Backend Development
+* Python Applications
+* Database Design
+* Data Analytics
+
+✨ I love building projects that solve real-world problems and help me grow as a developer.
+
+---
+
+# 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 Student Database Management System
+
+🔹 Developed using Python and MySQL
+
+🔹 Implemented CRUD operations
+
+🔹 Applied database design concepts
+
+🔹 Added error handling and input validation
+
+---
+
+### 🌐 Responsive Portfolio Website
+
+🔹 Built using HTML, CSS & JavaScript
+
+🔹 Fully responsive design
+
+🔹 Modern UI/UX principles
+
+🔹 Cross-browser compatibility
+
+---
+
+# 💼 Experience
+
+## Software Engineering Virtual Internship
+
+### Accenture Forage (Jul 2025 – Aug 2025)
+
+✔ Software Engineering Simulation
+
+✔ Application Security Fundamentals
+
+✔ Software Testing Concepts
+
+✔ Agile Methodologies
+
+✔ Stakeholder Communication
+
+---
+
+# 📚 Currently Exploring
 
 ```python
-class Priyanshi:
-    name       = "Priyanshi Vani"
-    role       = "Aspiring Python Developer"
-    location   = "Indore, Madhya Pradesh 🇮🇳"
-    education  = "BCA @ Medicaps University (2023–26)"
-    email      = "Priyanshivani688@gmail.com"
-
-    interests  = [
-        "Backend Development",
-        "Data Analytics",
-        "Database Design",
-        "Web Development"
-    ]
-
-    currently_learning = [
-        "DSA with Python",
-        "Software Engineering Principles",
-        "Power BI & Data Visualization"
-    ]
-
-    fun_fact   = "I debug with coffee ☕ and creativity 🎨"
-
->>> Priyanshi().run()
-# Output: Building one project at a time 🚀
+skills = {
+    "Language": "Python",
+    "Database": "MySQL",
+    "Frontend": ["HTML", "CSS", "JavaScript"],
+    "Tools": ["Git", "VS Code", "Power BI"],
+    "Learning": ["DSA", "Software Engineering", "Backend Development"]
+}
 ```
 
 ---
 
-<!-- Animated terminal SVG - self-hosted, no GIF needed, renders natively on GitHub -->
+# 📊 GitHub Statistics
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  ~/priyanshi  on  main ✔                                 ║
-║  ❯ python --version                                      ║
-║  Python 3.12.0                                           ║
-║                                                          ║
-║  ❯ git log --oneline -3                                  ║
-║  a1f3c2e  feat: add student database CRUD system         ║
-║  b82de1a  fix: responsive layout on mobile               ║
-║  c94f01b  docs: update README                            ║
-║                                                          ║
-║  ❯ echo "Always learning, always building 🚀"            ║
-║  Always learning, always building 🚀                     ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+# 🔥 GitHub Streak
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Web</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 GitHub Trophies
 
-<a href="#">
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshivani688&repo=student-database-management&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/priyanshivani">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshivani688&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="mailto:Priyanshivani688@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br clear="left"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
-
-> **🎓 Student Database Management System** — Python + MySQL · Full CRUD · Relational schema design · Input validation & error handling
->
-> **🌐 Responsive Portfolio Website** — HTML · CSS · JavaScript · CSS Grid/Flexbox · Semantic HTML · Cross-browser ready
-
----
-
-## 💼 Experience
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏢  Accenture × Forage  ·  Software Engineering Simulation     │
-│  📅  Jul 2025 – Aug 2025  ·  Virtual / Remote                   │
-│                                                                  │
-│  ✦ Programming & Software Architecture                          │
-│  ✦ Application Security Fundamentals                            │
-│  ✦ Software Testing & QA Concepts                               │
-│  ✦ Agile Methodologies & Stakeholder Communication              │
-└─────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────┐
-│  📊  Deloitte Australia × Forage  ·  Data Analytics Simulation  │
-│  🏆  Certificate of Completion                                  │
-│                                                                  │
-│  ✦ Data analysis using real-world business datasets             │
-│  ✦ Forensic technology & problem-solving scenarios              │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🏅 Certifications
-
-| Certificate | Issuer | Status |
-|---|---|---|
-| 🔍 Data Analytics Job Simulation | Deloitte Australia (Forage) | ✅ Completed |
-| 📊 Power BI for Beginners | Simplilearn | ✅ Completed |
-| ⚙️ Software Engineering Simulation | Accenture (Forage) | ✅ Completed |
-| 💡 Naresh iTechnologies Hackathon | Naresh iT | ✅ Completed |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Priyanshivani688&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshivani688&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshivani688&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7"/>
-
-</div>
-
----
-
-## 🌱 Currently Growing
-
-```
-📚 DSA with Python       ████████░░░░  65%
-🧱 Software Engineering  ██████░░░░░░  50%
-📊 Power BI & Analytics  ███████░░░░░  58%
-🐍 Advanced Python       ████████░░░░  65%
-🗄️  Database Design       █████████░░░  72%
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshi_Vani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshivani)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Priyanshivani688-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Priyanshivani688@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-a855f7?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshivani688&label=Profile+Views&color=a855f7&style=flat-square"/>
+### 💜 Thanks for visiting my profile 💜
 
-*"First, solve the problem. Then, write the code." — John Johnson*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=80&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
+
+<!-- Footer Wave -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C770F0&height=120&section=footer"/>
