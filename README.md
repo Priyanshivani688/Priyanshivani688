@@ -1,201 +1,183 @@
-# <div align="center">✨ Priyanshi Vani ✨</div>
+<!-- Animated Header -->
 
 <div align="center">
 
-### 💻 Python Developer | BCA Student | Software Engineering Enthusiast
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Priyanshi%20Vani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3000\&pause=1000\&color=C770F0\&center=true\&vCenter=true\&width=900\&lines=Hi+👋+I'm+Priyanshi+Vani;Aspiring+Python+Developer+💻;BCA+Student+at+Medicaps+University;Passionate+About+Software+Development+🚀;Always+Learning+New+Technologies+✨)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌸 About Me
+<img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2N2h0OW93bHd6dndkZnhuZmQ1cG8xY3h5ZXQ5eHRrNnBjM2QwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-Hi there! 👋
+# 🌸 About Me
 
-I'm **Priyanshi Vani**, a passionate **Python Developer** and **Bachelor of Computer Applications (BCA)** student from India.
+💜 Hello! I'm **Priyanshi Vani**
 
-I enjoy transforming ideas into practical software solutions through coding, database design, and web development. My interests include building Python applications, solving real-world problems, and continuously learning new technologies.
+🎓 Bachelor of Computer Applications (BCA) Student
 
-🌱 Currently learning Software Engineering, Data Structures, and Advanced Python
+💻 Aspiring Python Developer
 
-💡 Interested in Backend Development, Databases, and Data Analytics
+📍 Madhya Pradesh, India
 
-🚀 Building projects to strengthen my development skills
+🌱 Currently learning:
 
-🎯 Goal: Become a skilled Software Engineer and contribute to impactful technology solutions
+* Data Structures & Algorithms
+* Software Engineering
+* Database Management Systems
+* Advanced Python
+
+🚀 Interested in:
+
+* Backend Development
+* Python Applications
+* Database Design
+* Data Analytics
+
+✨ I love building projects that solve real-world problems and help me grow as a developer.
 
 ---
 
-## 💻 Tech Toolbox
+# 🛠️ Tech Stack
 
-### Programming Languages
+### 👩‍💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql" />
 </p>
 
-### Web Development
+### 🌐 Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Tools & Technologies
+### ⚙️ Tools & Platforms
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎓 Student Database Management System
 
-🔹 Developed a Python and MySQL based application to manage student records.
+🔹 Developed using Python and MySQL
 
-🔹 Implemented CRUD operations for efficient data handling.
+🔹 Implemented CRUD operations
 
-🔹 Designed relational database schemas and optimized SQL queries.
+🔹 Applied database design concepts
 
-🔹 Added validation and exception handling for improved reliability.
-
----
-
-### 🌐 Personal Portfolio Website
-
-🔹 Designed and developed a fully responsive portfolio website.
-
-🔹 Built using HTML, CSS, and JavaScript.
-
-🔹 Implemented modern UI design principles and responsive layouts.
-
-🔹 Ensured accessibility and cross-browser compatibility.
+🔹 Added error handling and input validation
 
 ---
 
-## 📚 Relevant Coursework
+### 🌐 Responsive Portfolio Website
 
-✔ Data Structures
+🔹 Built using HTML, CSS & JavaScript
 
-✔ Database Management Systems
+🔹 Fully responsive design
 
-✔ Software Engineering
+🔹 Modern UI/UX principles
 
-✔ Object-Oriented Programming
+🔹 Cross-browser compatibility
 
-✔ Web Development
+---
 
-✔ Algorithms Analysis
+# 💼 Experience
 
-✔ Computer Architecture
+## Software Engineering Virtual Internship
+
+### Accenture Forage (Jul 2025 – Aug 2025)
+
+✔ Software Engineering Simulation
+
+✔ Application Security Fundamentals
+
+✔ Software Testing Concepts
 
 ✔ Agile Methodologies
 
----
-
-## 💼 Experience
-
-### Software Engineering Virtual Intern
-
-**Accenture Forage** | Jul 2025 – Aug 2025
-
-🔹 Completed software engineering simulation involving real-world development scenarios.
-
-🔹 Practiced programming, testing, application security, and Agile methodologies.
-
-🔹 Enhanced collaboration and stakeholder communication skills.
-
-🔹 Worked through software delivery lifecycle activities.
+✔ Stakeholder Communication
 
 ---
 
-## 🎓 Education
+# 📚 Currently Exploring
 
-### Bachelor of Computer Applications (BCA)
-
-**Medicaps University, Indore**
-
-📅 2023 – 2026
-
-📊 CGPA: 6.75
-
----
-
-### Higher Secondary Certificate (Commerce)
-
-**Datahari Public School, Kukshi**
-
-📅 2022 – 2023
-
-📈 Percentage: 85.60%
+```python
+skills = {
+    "Language": "Python",
+    "Database": "MySQL",
+    "Frontend": ["HTML", "CSS", "JavaScript"],
+    "Tools": ["Git", "VS Code", "Power BI"],
+    "Learning": ["DSA", "Software Engineering", "Backend Development"]
+}
+```
 
 ---
 
-## 📜 Certifications
-
-🏅 Web Development Certification
-
-🏅 C/C++ Programming Certification
-
----
-
-## 🌟 Soft Skills
-
-🤝 Team Collaboration
-
-🧠 Analytical Thinking
-
-💬 Communication
-
-🎯 Problem Solving
-
-📊 Stakeholder Coordination
-
----
-
-## 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Activity Graph
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/priyanshivani">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -215,10 +197,12 @@ I enjoy transforming ideas into practical software solutions through coding, dat
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Improve. Repeat." ✨
+### 💜 Thanks for visiting my profile 💜
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile%20Views\&color=blueviolet\&style=flat)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
+<!-- Footer Wave -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C770F0&height=120&section=footer"/>
