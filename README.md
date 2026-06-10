@@ -1,18 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there%2C+I'm+Priyanshi+Vani+%F0%9F%91%8B;Python+Developer+%7C+BCA+Student+%7C+Builder)](https://git.io/typing-svg)
+<!-- Glitch animation header - much more unique than standard typing SVG -->
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Priyanshi+Vani;Python+Developer;BCA+%40+Medicaps+University;Building+Real-World+Solutions&animation=glitch&color=A855F7&font=Fira+Code&size=28&weight=700&width=800&height=60&duration=2800&pause=1200" alt="Glitch Header"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=3&section=header" width="100%"/>
+<!-- Capsule render with venom/soft_ui type for a more modern look -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,30&height=140&text=Junior%20Python%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Indore%2C%20India%20%7C%20Open%20to%20Opportunities&descSize=14&descAlignY=85" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
-
-## `whoami`
+## `$ cat about_me.py`
 
 ```python
 class Priyanshi:
@@ -36,9 +36,37 @@ class Priyanshi:
     ]
 
     fun_fact   = "I debug with coffee ☕ and creativity 🎨"
+
+>>> Priyanshi().run()
+# Output: Building one project at a time 🚀
 ```
 
-<br clear="right"/>
+---
+
+<!-- Animated terminal SVG - self-hosted, no GIF needed, renders natively on GitHub -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
+</picture>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ~/priyanshi  on  main ✔                                 ║
+║  ❯ python --version                                      ║
+║  Python 3.12.0                                           ║
+║                                                          ║
+║  ❯ git log --oneline -3                                  ║
+║  a1f3c2e  feat: add student database CRUD system         ║
+║  b82de1a  fix: responsive layout on mobile               ║
+║  c94f01b  docs: update README                            ║
+║                                                          ║
+║  ❯ echo "Always learning, always building 🚀"            ║
+║  Always learning, always building 🚀                     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -177,6 +205,6 @@ class Priyanshi:
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=80&section=footer"/>
 
 </div>
